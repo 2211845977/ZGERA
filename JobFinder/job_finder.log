@@ -1,0 +1,13 @@
+[2025-01-11 23:31:24] [SEVERE ] Error during login attempt 
+[2025-01-11 23:33:45] [INFO   ] Attempting login for user: mohamed 
+[2025-01-11 23:33:45] [SEVERE ] Database error during login: Unknown column 'username' in 'where clause' 
+[2025-01-11 23:36:26] [INFO   ] Attempting login for user: mohamed 
+[2025-01-11 23:36:26] [INFO   ] User logged in successfully: mohamed 
+[2025-01-11 23:36:26] [INFO   ] Database connected successfully 
+[2025-01-11 23:36:46] [INFO   ] Job ID 6 updated successfully by user: mohamed 
+[2025-01-11 23:40:13] [INFO   ] Attempting login for user: mohamed 
+[2025-01-11 23:40:13] [INFO   ] User logged in successfully: mohamed 
+[2025-01-11 23:40:13] [INFO   ] Database connected successfully 
+[2025-01-11 23:43:55] [INFO   ] Attempting login for user: mohamed 
+[2025-01-11 23:43:55] [INFO   ] User logged in successfully: mohamed 
+[2025-01-11 23:43:55] [INFO   ] Database connected successfully 
