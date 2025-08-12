@@ -1,0 +1,26 @@
+<?php
+
+namespace Database\Seeders;
+
+use Illuminate\Database\Console\Seeds\WithoutModelEvents;
+use Illuminate\Database\Seeder;
+use App\Models\Campus;
+
+class CampusSeeder extends Seeder
+{
+    /**
+     * Run the database seeds.
+     */
+    public function run(): void
+    {
+        $campuses = [
+            ['name' => 'الحرم الرئيسي'],
+            ['name' => 'الحرم الطبي'],
+            ['name' => 'الحرم الهندسي'],
+        ];
+
+        foreach ($campuses as $campus) {
+            Campus::create($campus);
+        }
+    }
+}
